@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Mercychristian
-- 👀 I’m interested in marketing jobs
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in marketing/social media management 
+- 🌱 I’m currently learning how to code
+- 💞️ I’m looking to collaborate on available opportunities
+- 📫 How to reach me on twitter:TemiBavrich,telegram:mercy_christian
 
 <!---
 Mercychristian/Mercychristian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
