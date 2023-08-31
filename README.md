@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Mercychristian
-- 👀 I’m interested in marketing/social media management 
-- 🌱 I’m currently learning how to code
+- 👀 I’m interested in marketing/social media management
+- i'm an experienced marketing startegist, moderator worked for over 10 crypto projects.
+- 🌱 I’m currently learning cybersecurity.
 - 💞️ I’m looking to collaborate on available opportunities
-- 📫 How to reach me on twitter:TemiBavrich,telegram:mercy_christian
+- 📫 How to reach me on twitter:tee_maih,telegram:mercy_christian
 
 <!---
 Mercychristian/Mercychristian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
